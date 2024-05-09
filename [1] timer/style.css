@@ -1,0 +1,19 @@
+body {
+  word-spacing: unset;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 30vh;
+  margin: 0;
+}
+
+.container {
+  font-size: large;
+  text-align: end;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+}
+
+#timer {
+  font-size: 90px;
+  margin-top: 20px;
+}
